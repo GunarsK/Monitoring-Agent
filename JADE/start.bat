@@ -1,0 +1,1 @@
+start javaw -jar JADE.jar "-gui" "MonitorAgent:jade.MonitoringAgent"
